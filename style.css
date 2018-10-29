@@ -1,0 +1,28 @@
+body {background-image: url("http://postfiles3.naver.net/MjAxNzA3MjJfMTQx/MDAxNTAwNzA3OTgzMjEz.jvhsk0nR4vQq-peKc4-tMqp5TTXCCgBWf3xkWaWCJ-sg.bSTI9Uphh9hYsglB1UGKHo93PX8brVb8_g6SvUscxjwg.JPEG.goldsunriver/image_6972051841500707978958.jpg?type=w773");
+background-size: 100% auto; background-repeat: repeat-y;}
+div  {text-align: center; font-size: 10px; font-weight: bold;}
+
+#sidebar {width : 360px;  margin: 40px auto 30px auto; text-align: left; }
+#sidebar tr {list-style: none;  margin: 10px;} 
+#sidebar tr td a {text-decoration: none;}
+#sidebar tr td a:visited {color:black;}
+#sidebar tr td a:hover {color: #C9B872;}
+
+#imgcontent img { width: 400px; margin-top: 0px;}
+
+#copyright {margin: 30px auto 40px auto; text-align: center; font-size: 10px;}
+
+#contact {background-color: #C9B872; width: 400px; height: 400px; margin: 30px auto auto auto; }
+#contact {line-height : 60px; }
+#mail {width: 400px;}
+#mail tr {line-height: 10px; }
+
+#photog img {width: 400px;}
+.play {width : 300px; height: 300px;}
+.play2 {width : 300px; height :400px;}
+#draw img{width:300px; height: 400px;}
+
+.text2 { color:#C9B872; font-size: 12px }
+
+.moving a {color:#C9B872; font-size: 10px; text-decoration: none; float: right;}
+
